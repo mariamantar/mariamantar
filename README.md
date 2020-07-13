@@ -1,6 +1,8 @@
 ### Hi There! 👋
 
-<img src="https://user-images.githubusercontent.com/37126943/87268016-a6fb7c00-c50c-11ea-9804-0776fecd990c.png" alt="alt text" width="400" height="400">
+Welcome to my profile
+
+<img src="https://user-images.githubusercontent.com/37126943/87268016-a6fb7c00-c50c-11ea-9804-0776fecd990c.png" alt="alt text" width="200" height="200">
 
 <!--
 **mariamantar/mariamantar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
