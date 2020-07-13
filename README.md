@@ -1,5 +1,4 @@
 ### Hi There! 👋
-
 Welcome to my profile
 
 <img src="https://user-images.githubusercontent.com/37126943/87268016-a6fb7c00-c50c-11ea-9804-0776fecd990c.png" alt="alt text" width="200" height="200">
