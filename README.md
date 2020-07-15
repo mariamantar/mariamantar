@@ -4,11 +4,8 @@ Welcome to my profile
 ### Quick Links
 
 ✨ <a href="https://twitter.com/mariamantar_">Twitter</a>
-✨ <a href="https://www.youtube.com/channel/UC4luHbFfHOuMCcQM4TKZNTw"> Youtube <a/>
 ✨ <a href="https://mariamantar.netlify.app/"> Portfolio </a>
-✨ <a href="https://edabit.com/user/9Pwa4FHThWGYaLrcW"> Edabit </a>
 
-<img src="https://user-images.githubusercontent.com/37126943/87268672-5ab13b80-c50e-11ea-80cf-a303ade7b40b.jpg" alt="alt text" width="200" height="250">
 
 <!--
 **mariamantar/mariamantar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
