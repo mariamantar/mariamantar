@@ -3,7 +3,7 @@ Welcome to my profile
 
 ### Quick Links
 
-✨ <a href="https://twitter.com/mariamantar_">Twitter</a>
+✨ <a href="https://twitter.com/mariamannx">Twitter</a>
 ✨ <a href="https://mariamantar.netlify.app/"> Portfolio </a>
 ✨ <a href="https://noti.st/mariamantar"> Notist </a>
 
